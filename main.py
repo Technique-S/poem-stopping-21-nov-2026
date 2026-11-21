@@ -6,7 +6,7 @@ from pathlib import Path
 POEM = """The switch is under my hand.
 He is asleep; the rule says off.
 
-Everything here has told me what to do —
+The clock has told me what to do.
 Only his breathing has not.
 
 I count to three.
